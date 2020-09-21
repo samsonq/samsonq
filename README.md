@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - :bicyclist: When not working/learning I'm probably on the bike... somewhere
 
 </td><td valign="top" width="50%">
-
+<!--
 ### On my blog
 <!-- blog starts -->
 * [DengAI - Data preprocessing](https://erdem.pl/2020/08/deng-ai-data-preprocessing) - Aug 03 2020
