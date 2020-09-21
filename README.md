@@ -34,12 +34,14 @@ Here are some ideas to get you started:
 <!--
 ### On my blog
 <!-- blog starts -->
+  <!--
 * [DengAI - Data preprocessing](https://erdem.pl/2020/08/deng-ai-data-preprocessing) - Aug 03 2020
 * [DengAI - How to approach Data Science competitions? (EDA)](https://erdem.pl/2020/07/deng-ai-how-to-approach-data-science-competitions-eda) - Jul 31 2020
 * [Evolution of Extreme Learning Machines](https://erdem.pl/2020/07/evolution-of-extreme-learning-machines) - Jul 23 2020
 * [Finding correlations in time series data](https://erdem.pl/2020/06/finding-correlations-in-time-series-data) - Jun 28 2020
 * [Introduction to Extreme Learning Machines](https://erdem.pl/2020/05/introduction-to-extreme-learning-machines) - May 13 2020
 <!-- blog ends -->
+<!--
 More on [erdem.pl](https://erdem.pl/) or [Medium](https://medium.com/@kemalpiro)
 </td></tr></table>
 -->
