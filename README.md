@@ -27,6 +27,8 @@ The most important traits of a data scientist are:
 - Collaboration
 - Creativity
 
+Also check out my [Gists](https://gist.github.com/samsonq)! 
+
 <!--
 <table><tr><td valign="top" width="50%">
 
