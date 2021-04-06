@@ -29,6 +29,8 @@ The most important traits of a data scientist are:
 
 Also check out my [Gists](https://gist.github.com/samsonq)! 
 
+![Samson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonq&count_private=true&show_icones=true&theme=solarized-light)
+
 <!--
 <table><tr><td valign="top" width="50%">
 
