@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![samsonq](https://img.shields.io/static/v1?label=samsonq&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://samsonq.com/)
-[![saqian@ucsd.edu](https://img.shields.io/static/v1?label=saqian@ucsd.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:saqian@ucsd.edu)
+[![samsonq@mit.edu](https://img.shields.io/static/v1?label=samsonq@mit.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:samsonq@mit.edu)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=1ca0f1&logo=Kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/samsonqian)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0e76a8&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/samsonq)
 <!--[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1ca0f1&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/samsonqian)-->
