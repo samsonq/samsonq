@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![samsonq](https://img.shields.io/static/v1?label=samsonq&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://samsonq.com/)
+[![samsonq](https://img.shields.io/static/v1?label=samsonq&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://samsonqian.com/)
 [![samsonq@mit.edu](https://img.shields.io/static/v1?label=samsonq@mit.edu&message=%20&color=921D1D&logo=gmail&style=flat-square&logoColor=white)](mailto:samsonq@mit.edu)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=1ca0f1&logo=Kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/samsonqian)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0e76a8&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/samsonq)
 <!--[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1ca0f1&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/samsonqian)-->
 
-My passion is solving complex financial and business problems through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The most important traits of a data scientist are:
+Here is a list of my ongoing work and [Publications](https://github.com/samsonq/Publications).
+
+My passion is solving complex financial and business problems through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important traits to me are:
 
 - Resilience
 - Collaboration
