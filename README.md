@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![samsonq](https://img.shields.io/static/v1?label=samsonq&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://samsonqian.com/)
+[![samsonqian](https://img.shields.io/static/v1?label=samsonq&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://samsonqian.com/)
 [![samsonq@mit.edu](https://img.shields.io/static/v1?label=samsonq@mit.edu&message=%20&color=921D1D&logo=gmail&style=flat-square&logoColor=white)](mailto:samsonq@mit.edu)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=1ca0f1&logo=Kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/samsonqian)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0e76a8&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/samsonq)
