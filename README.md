@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [Resume](https://www.samsonqian.com/resume.pdf) | [Website](https://www.samsonqian.com)
 
-Here is a list of my ongoing work and [Publications](https://github.com/samsonq/Publications).
+Here is a list of my ongoing [research work and publications](https://samsonqian.com/publications.pdf).
 
 My passion is solving complex financial and business problems through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important traits to me are:
 
