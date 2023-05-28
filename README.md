@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Here is a list of my ongoing [research work and publications](https://samsonqian.com/publications.pdf).
 
-My passion is solving complex financial and business problems through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important traits to me are:
+My passion is solving complex financial and business problems through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important skills to me are:
 
 - Resilience
 - Collaboration
